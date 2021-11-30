@@ -1,0 +1,10 @@
+header {
+  background-color: cyan;
+  text-align: center;
+}
+
+.info {
+  background-color: green;
+  color: red;
+  text-align: center;
+}
